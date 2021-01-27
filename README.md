@@ -13,8 +13,10 @@ Under the hood:
 - [chai](https://github.com/chaijs/chai)
 - [nyc](https://github.com/istanbuljs/nyc)
 
-Includes:
-- VSCode launcher
+
+## WARNING: This code is not maintained
+
+Very obvious - but due - WARNING: check the links above for the state of the art. It's probably easier to start from scrath than to use this as a boilerplate ;-)
 
 ## Getting started
 
